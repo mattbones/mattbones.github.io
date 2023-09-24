@@ -1,6 +1,7 @@
 
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
             text-align: center;
@@ -8,6 +9,13 @@
             font-size: 16px;
             margin: 4em 10em;
             line-height: 2.5;
+        }
+
+        /* Media query for smaller screens (e.g., phones) */
+        @media screen and (max-width: 768px) {
+            body {
+                margin: 2em; /* Reduce margin for smaller screens */
+            }
         }
 
         /* Define a custom font weight using a CSS variable */
@@ -40,7 +48,7 @@
 <p>##Good day mate</p>
 
 <p>
-Mary had a little lamb From crafting artisanal bread to safeguarding digital frontiers – my journey from baker to cybersecurity enthusiast is a testament to my appetite for new challenges and my commitment to working just as hard in this new endeavor.
+From crafting artisanal bread to safeguarding digital frontiers – my journey from baker to cybersecurity enthusiast is a testament to my appetite for new challenges and my commitment to working just as hard in this new endeavor.
 </p>
 
 <p>
@@ -53,4 +61,5 @@ Mary had a little lamb From crafting artisanal bread to safeguarding digital fro
 
 </body>
 </html>
+
 
