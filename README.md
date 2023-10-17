@@ -69,6 +69,18 @@ From crafting artisanal bread to safeguarding digital frontiers – my journey f
     <a href="https://www.instagram.com/matthewjones_baker/?hl=en" target="_blank">Bread Bread Bread</a>
 </p>
 
+<p>
+    <Projects that I have been working on lately --
+</p>
+
+
+<p>
+    <Wireshark packet captures--
+</p>
+
+
+<img width="943" alt="Screenshot 2023-10-16 at 10 49 26 AM" src="https://github.com/mattbones/mattbones.github.io/assets/139604644/473b997c-38cc-4655-8eb3-265ab98fbddd">
+
 <p>---</p>
 
 </body>
