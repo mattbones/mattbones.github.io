@@ -70,16 +70,17 @@ From crafting artisanal bread to safeguarding digital frontiers – my journey f
 </p>
 
 <p>
-    <Projects that I have been working on lately --
+    ##Projects that I have been working on lately
 </p>
 
 
 <p>
-    <Wireshark packet captures--
+    Wireshark packet captures--
 </p>
 
 
-<img width="943" alt="Screenshot 2023-10-16 at 10 49 26 AM" src="https://github.com/mattbones/mattbones.github.io/assets/139604644/473b997c-38cc-4655-8eb3-265ab98fbddd">
+<img width="930" alt="Screenshot 2023-10-16 at 10 49 26 AM" src="https://github.com/mattbones/mattbones.github.io/assets/139604644/18d74e21-b759-4501-80ab-fb6678d51a90">
+
 
 <p>---</p>
 
