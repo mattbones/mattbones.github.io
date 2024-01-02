@@ -31,14 +31,14 @@
         /* Media query for smaller screens (e.g., phones) */
         @media screen and (max-width: 768px) {
             body {
-                margin: 2em; /* Reduce margin for smaller screens */
+                margin: 3em; /* Reduce margin for smaller screens */
             }
         }
 
         p {
             text-align: left;
             font-weight: var(--custom-font-weight);
-            letter-spacing: 2px;
+            letter-spacing: 2.5px;
         }
 
         /* Style for the "Previous Work" text */
