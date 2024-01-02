@@ -25,7 +25,7 @@
             font-family: 'Courier Prime', "Courier New", Courier, monospace;
             font-size: 16px;
             margin: 4em 10em;
-            line-height: 2.5;
+            line-height: 5;
         }
 
         /* Media query for smaller screens (e.g., phones) */
