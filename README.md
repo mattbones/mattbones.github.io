@@ -42,6 +42,13 @@
             margin-bottom: 10em; /* Add margin-bottom to create space between paragraphs */
         }
 
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% if site.title and site.title != page.title %}
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      {% endif %}
+
+      {{ content }}
+
         /* Style for the "Previous Work" text */
         .previous-work {
             display: inline-block; /* Make it an inline block element */
