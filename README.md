@@ -39,6 +39,7 @@
             text-align: left;
             font-weight: var(--custom-font-weight);
             letter-spacing: 2.5px;
+            margin-bottom: 5em; /* Add margin-bottom to create space between paragraphs */
         }
 
         /* Style for the "Previous Work" text */
