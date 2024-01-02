@@ -55,7 +55,7 @@
 </head>
 <body>
 
-<p>#Matthew Jay Jones -- that's my name</p>
+<p>#Matt Jones -- that's my name</p>
 
 <p>##Good day mate</p>
 
