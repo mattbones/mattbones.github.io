@@ -24,7 +24,7 @@
             text-align: center;
             font-family: 'Courier Prime', "Courier New", Courier, monospace;
             font-size: 16px;
-            margin: 4em 10em;
+            margin: 10em 15em;
             line-height: 5;
         }
 
