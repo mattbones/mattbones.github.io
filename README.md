@@ -24,7 +24,7 @@
             text-align: center;
             font-family: 'Courier Prime', "Courier New", Courier, monospace;
             font-size: 16px;
-            margin: 10em 15em;
+            margin: 3em 15em;
             line-height: 5;
         }
 
@@ -57,11 +57,11 @@
 
 <p>#Matt Jones -- that's my name</p>
 
-<div style="padding-bottom: 10px;"></div>
+<div style="padding-bottom: 15px;"></div>
 
 <p>##Good day mate</p>
 
-<div style="padding-bottom: 10px;">             </div>
+<div style="padding-bottom: 15px;">             </div>
 
 <p>
 From crafting artisanal bread to safeguarding digital frontiers – my journey from baker to cybersecurity enthusiast is a testament to my appetite for new challenges and my commitment to working just as hard in this new endeavor.
