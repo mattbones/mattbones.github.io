@@ -57,7 +57,7 @@
 
 <p>#Matt Jones -- that's my name</p>
 
-<div style="padding-bottom: 10px;">This is a div with padding.</div>
+<div style="padding-bottom: 10px;"></div>
 
 <p>##Good day mate</p>
 
