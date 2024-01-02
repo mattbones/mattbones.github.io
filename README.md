@@ -61,7 +61,7 @@
 
 <p>##Good day mate</p>
 
-<div style="padding-bottom: 10px;">This is a div with padding.</div>
+<div style="padding-bottom: 10px;">             </div>
 
 <p>
 From crafting artisanal bread to safeguarding digital frontiers – my journey from baker to cybersecurity enthusiast is a testament to my appetite for new challenges and my commitment to working just as hard in this new endeavor.
