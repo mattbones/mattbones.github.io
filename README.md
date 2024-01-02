@@ -23,9 +23,7 @@ title: null
     font-style: normal;
 }
 
-    
-name: something
-title: null
+
     
         body {
             text-align: center;
