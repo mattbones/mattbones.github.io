@@ -85,9 +85,7 @@ From crafting artisanal bread to safeguarding digital frontiers – my journey f
     Wireshark packet captures--
 </p>
 
-<div style="padding-bottom: 10px;">This is a div with padding.</div>
-
-<div style="padding-bottom: 10px;">This is a div with padding.</div>
+<div style="padding-bottom: 10px;">
 
 <img width="930" alt="Screenshot 2023-10-16 at 10 49 26 AM" src="https://github.com/mattbones/mattbones.github.io/assets/139604644/18d74e21-b759-4501-80ab-fb6678d51a90">
 
