@@ -57,11 +57,17 @@
 
 <p>#Matt Jones -- that's my name</p>
 
+<div style="padding-bottom: 10px;">This is a div with padding.</div>
+
 <p>##Good day mate</p>
+
+<div style="padding-bottom: 10px;">This is a div with padding.</div>
 
 <p>
 From crafting artisanal bread to safeguarding digital frontiers – my journey from baker to cybersecurity enthusiast is a testament to my appetite for new challenges and my commitment to working just as hard in this new endeavor.
 </p>
+
+<div style="padding-bottom: 10px;">This is a div with padding.</div>
 
 <p>
     <!-- "Previous Work" and the hyperlink on the same line -->
@@ -73,11 +79,15 @@ From crafting artisanal bread to safeguarding digital frontiers – my journey f
     ##Projects that I have been working on lately
 </p>
 
+<div style="padding-bottom: 10px;">This is a div with padding.</div>
 
 <p>
     Wireshark packet captures--
 </p>
 
+<div style="padding-bottom: 10px;">This is a div with padding.</div>
+
+<div style="padding-bottom: 10px;">This is a div with padding.</div>
 
 <img width="930" alt="Screenshot 2023-10-16 at 10 49 26 AM" src="https://github.com/mattbones/mattbones.github.io/assets/139604644/18d74e21-b759-4501-80ab-fb6678d51a90">
 
