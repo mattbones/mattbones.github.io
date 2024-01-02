@@ -1,11 +1,8 @@
 
 <html>
 
-    
-    <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-      {% endif %}
+markdown: GFM
+title: ''
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
